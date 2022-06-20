@@ -1,0 +1,48 @@
+#home{
+  margin-top: 55px;
+  background-color: #FBFFDC;
+  display: flex;
+  border: 1px solid blue;
+  height: 400px;
+
+}
+div{
+  width: auto;
+}
+
+.ordinateur{
+  width: 400px;
+  padding : 50px 100px 0 0 ;
+
+
+}
+.telephone{
+  width: 300px;
+  padding: 50px 100px 0 50px ;
+}
+.tro{
+  padding: 50px 120px 0 0;
+  width: 220px;
+
+}
+
+.bloc1{
+  border: 1px solid black;
+  padding: 0 0 10px 100px;
+}
+
+.bloc2{
+  border: 1px solid black;
+  padding: 0 0 20px 100px;
+}
+
+.bloc3{
+  border: 1px solid black;
+  padding: 0 10px 10px 50px;
+}
+.desc1, .desc2, .desc3{
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  font-family: "Bauhaus 93";
+}
